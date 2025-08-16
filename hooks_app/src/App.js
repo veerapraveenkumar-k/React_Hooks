@@ -1,8 +1,9 @@
 import TaskApp from './Components/State Hook'
+import ClockApp from './Components/Effect Hook'
 import './App.css';
 
 function App() {
-  return <TaskApp/>
+  return <ClockApp/>
 }
 
 export default App;

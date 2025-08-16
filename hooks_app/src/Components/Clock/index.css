@@ -1,0 +1,33 @@
+.clock {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(45, 45, 45);
+    border-radius: 20px;
+}
+
+.timer {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.time-container {
+    width: 150px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: rgb(171, 135, 37);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time-text {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
